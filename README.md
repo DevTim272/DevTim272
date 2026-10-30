@@ -6,7 +6,7 @@
 
 **I build web experiences that solve problems and make the web more useful.**
 
-<a href="https://forkifyy-3v11pegaq-timeyin-corp.vercel.app/">
+<a href="https://forkifyy-five.vercel.app/">
   <img src="https://img.shields.io/badge/Explore_My_Project-Forkify-58a6ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Forkify"/>
 </a>
 <a href="mailto:godspowerokunbor3@gmail.com">
@@ -36,9 +36,9 @@ I believe in learning by building, understanding the code I write, and improving
 
 ### 🍽️ Forkify — Recipe Search Application
 
-<a href="https://forkifyy-3v11pegaq-timeyin-corp.vercel.app/">
+<a href="https://forkifyy-five.vercel.app/">
   <img
-    src="https://image.thum.io/get/width/1200/crop/700/https://forkifyy-3v11pegaq-timeyin-corp.vercel.app/"
+    src="https://image.thum.io/get/width/1200/crop/700/https://forkifyy-five.vercel.app/"
     width="100%"
     alt="Preview of my Forkify recipe application"
   />
@@ -53,7 +53,7 @@ I believe in learning by building, understanding the code I write, and improving
 - DOM manipulation and event handling
 - Parcel, npm and deployment with Vercel
 
-**[🌐 Live Demo](https://forkifyy-3v11pegaq-timeyin-corp.vercel.app/)** · **[💻 Source Code](https://github.com/DevTim272/forkifyy)**
+**[🌐 Live Demo](https://forkifyy-five.vercel.app/)** · **[💻 Source Code](https://github.com/DevTim272/forkifyy)**
 
 ---
 
